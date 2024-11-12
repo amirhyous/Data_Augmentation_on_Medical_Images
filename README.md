@@ -11,6 +11,10 @@ We inserted random lines with random colors into images to balance the dataset:
 
 - "code/breast_cancer/aug_and_test" for applying augmentation on images, training and test for breast cancer dataset
 
+## Datasets
+- pneumonia: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+- breast cancer: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+
 
 
 
